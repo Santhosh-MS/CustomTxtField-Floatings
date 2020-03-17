@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++821",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FF688E5-CB3C-4D7F-A33B-7499936714D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "546f238f-063a-1cc4-2888-ce57b7db7bff++821" : "Workspace\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CustomTxtFields",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Challenges\/iosProofs\/CustomTxtFields\/CustomTxtFields.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ZylogSystems\/FieldPowerCloud",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "546f238f-063a-1cc4-2888-ce57b7db7bff++821"
+    }
+  ]
+}
